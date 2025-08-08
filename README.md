@@ -34,24 +34,26 @@
 ### 👤 **User**
 Browse grocery items, manage cart, place orders
 
-| ![1](https://github.com/user-attachments/assets/76e891bf-bbd5-4d3b-98a4-fb97ef6ed24b) | ![2](https://github.com/user-attachments/assets/46c044b3-28e5-4ef3-9d9a-fa922a8756d6) | ![3](https://github.com/user-attachments/assets/f030a1c8-3b86-4561-aab9-c99b6d4d25ae) |
+| ![User 1](https://github.com/user-attachments/assets/76e891bf-bbd5-4d3b-98a4-fb97ef6ed24b) | ![User 2](https://github.com/user-attachments/assets/46c044b3-28e5-4ef3-9d9a-fa922a8756d6) | ![User 3](https://github.com/user-attachments/assets/f030a1c8-3b86-4561-aab9-c99b6d4d25ae) |
 |:--:|:--:|:--:|
-| ![4](https://github.com/user-attachments/assets/16e802ba-ee3d-45c7-be69-75ee97eb1a11) | ![5](https://github.com/user-attachments/assets/006843f5-f1b6-41e0-b658-95e034339c4e) | ![6](https://github.com/user-attachments/assets/972a12cf-0e12-4455-a7cf-d2d77257af42) |
-| ![7](https://github.com/user-attachments/assets/0128aaa6-d895-450c-aa62-403cc9b4da83) |  |  |
+| ![User 4](https://github.com/user-attachments/assets/16e802ba-ee3d-45c7-be69-75ee97eb1a11) | ![User 5](https://github.com/user-attachments/assets/006843f5-f1b6-41e0-b658-95e034339c4e) | ![User 6](https://github.com/user-attachments/assets/972a12cf-0e12-4455-a7cf-d2d77257af42) |
+| ![User 7](https://github.com/user-attachments/assets/0128aaa6-d895-450c-aa62-403cc9b4da83) | | |
 
 ---
 
 ### 🛍️ **Seller**
 Manage inventory, track orders, fulfill deliveries
 
-| ![Seller 1](https://github.com/user-attachments/assets/db22c719-a6f3-426a-82e9-fef2ef843475)| 
-|![Seller 2](https://github.com/user-attachments/assets/1e8d67bc-b8c6-446b-b216-e83b09b5be6a)|  
-|![Seller 3](https://github.com/user-attachments/assets/da1ba101-d74c-4b84-9b57-b1e65526d5c9)|
+| ![Seller 1](https://github.com/user-attachments/assets/db22c719-a6f3-426a-82e9-fef2ef843475) | ![Seller 2](https://github.com/user-attachments/assets/1e8d67bc-b8c6-446b-b216-e83b09b5be6a) | ![Seller 3](https://github.com/user-attachments/assets/da1ba101-d74c-4b84-9b57-b1e65526d5c9) |
+|:--:|:--:|:--:|
 
 ---
 
 ### 🔐 **Admin**
 Oversee platform, verify sellers, manage users & categories
+
+| ![Admin Preview](https://github.com/user-attachments/assets/your-admin-screenshot-id-here) | ![Admin Preview 2](https://github.com/user-attachments/assets/your-second-admin-screenshot-id-here) | ![Admin Preview 3](https://github.com/user-attachments/assets/your-third-admin-screenshot-id-here) |
+|:--:|:--:|:--:|
 
 
 ---
