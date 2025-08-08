@@ -34,7 +34,8 @@
 ### 👤 **User**
 Browse grocery items, manage cart, place orders
 
-| ![User 1](https://github.com/user-attachments/assets/76e891bf-bbd5-4d3b-98a4-fb97ef6ed24b) | ![User 2](https://github.com/user-attachments/assets/46c044b3-28e5-4ef3-9d9a-fa922a8756d6) | ![User 3](https://github.com/user-attachments/assets/f030a1c8-3b86-4561-aab9-c99b6d4d25ae) |
+| ![User 1](https://github.com/user-attachments/assets/059ec843-b113-4c69-9acc-eeea9613a711) | ![User 2](https://github.com/user-attachments/assets/2e0fc8d9-88af-456b-b3ba-ee43fe9c2b99
+) | ![User 3](https://github.com/user-attachments/assets/371695dc-eb26-4362-bb06-254f43eb5d4c) |
 |:--:|:--:|:--:|
 | ![User 4](https://github.com/user-attachments/assets/16e802ba-ee3d-45c7-be69-75ee97eb1a11) | ![User 5](https://github.com/user-attachments/assets/006843f5-f1b6-41e0-b658-95e034339c4e) | ![User 6](https://github.com/user-attachments/assets/972a12cf-0e12-4455-a7cf-d2d77257af42) |
 | ![User 7](https://github.com/user-attachments/assets/0128aaa6-d895-450c-aa62-403cc9b4da83) | | |
