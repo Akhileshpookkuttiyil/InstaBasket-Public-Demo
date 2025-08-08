@@ -44,9 +44,9 @@ Browse grocery items, manage cart, place orders
 ### 🛍️ **Seller**
 Manage inventory, track orders, fulfill deliveries
 
-![Seller 1](https://github.com/user-attachments/assets/db22c719-a6f3-426a-82e9-fef2ef843475)  
-![Seller 2](https://github.com/user-attachments/assets/1e8d67bc-b8c6-446b-b216-e83b09b5be6a)  
-![Seller 3](https://github.com/user-attachments/assets/da1ba101-d74c-4b84-9b57-b1e65526d5c9)
+| ![Seller 1](https://github.com/user-attachments/assets/db22c719-a6f3-426a-82e9-fef2ef843475)| 
+|![Seller 2](https://github.com/user-attachments/assets/1e8d67bc-b8c6-446b-b216-e83b09b5be6a)|  
+|![Seller 3](https://github.com/user-attachments/assets/da1ba101-d74c-4b84-9b57-b1e65526d5c9)|
 
 ---
 
