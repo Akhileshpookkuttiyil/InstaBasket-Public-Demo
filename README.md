@@ -66,3 +66,7 @@ This repository is a sanitized version created for demonstration only. Proprieta
 
 ---
 
+## 📫 Contact
+
+For access to the full source or inquiries regarding collaboration, feel free to reach out via <a href="https://github.com/Akhileshpookkuttiyil">GitHub</a> or email at <span style="font-size: 12px;">akhileshpookkuttiyil@gmail.com</span>.
+
