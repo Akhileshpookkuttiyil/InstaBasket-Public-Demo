@@ -59,11 +59,11 @@
 ### 👤 **User**
 Browse grocery items, search products, manage cart and addresses, place COD or Stripe orders, retry unpaid Stripe payments, manage profile/settings, receive notifications, and leave verified reviews
 
-| ![User 1](https://github.com/user-attachments/assets/059ec843-b113-4c69-9acc-eeea9613a711) | ![User 2](https://github.com/user-attachments/assets/2e0fc8d9-88af-456b-b3ba-ee43fe9c2b99) | ![User 3](https://github.com/user-attachments/assets/371695dc-eb26-4362-bb06-254f43eb5d4c) |<img width="1318" height="588" alt="2" src="https://github.com/user-attachments/assets/692931e1-d504-4e1f-bdb3-f55cad106e0d" />
+| ![User 1](https://github.com/user-attachments/assets/059ec843-b113-4c69-9acc-eeea9613a711) | ![User 2](https://github.com/user-attachments/assets/2e0fc8d9-88af-456b-b3ba-ee43fe9c2b99) | ![User 3](https://github.com/user-attachments/assets/371695dc-eb26-4362-bb06-254f43eb5d4c) | ![User 4](https://github.com/user-attachments/assets/692931e1-d504-4e1f-bdb3-f55cad106e0d) />
 
 |:--:|:--:|:--:|
-| ![User 4](https://github.com/user-attachments/assets/465afba4-ea23-4d4e-a8e1-9c9052117235) | ![User 5](https://github.com/user-attachments/assets/56e9b2a3-e92f-495b-96bf-44041f42cc9c) | ![User 6](https://github.com/user-attachments/assets/8b8cf28e-3c75-48b2-907c-cd4cd018d812) |
-| ![User 7](https://github.com/user-attachments/assets/0fc95435-301f-4847-b4e5-864bf63f056c) |  |  |
+| ![User 5](https://github.com/user-attachments/assets/465afba4-ea23-4d4e-a8e1-9c9052117235) | ![User 6](https://github.com/user-attachments/assets/56e9b2a3-e92f-495b-96bf-44041f42cc9c) | ![User 7](https://github.com/user-attachments/assets/8b8cf28e-3c75-48b2-907c-cd4cd018d812) |
+| ![User 8](https://github.com/user-attachments/assets/0fc95435-301f-4847-b4e5-864bf63f056c) |  |  |
 
 ### 🛍️ **Seller**
 Manage products, pricing, images, and stock status; monitor low-stock and out-of-stock items; track revenue and orders; update logistics and payment state; and activate or deactivate users
